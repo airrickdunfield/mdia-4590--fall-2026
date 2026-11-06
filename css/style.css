@@ -3,12 +3,10 @@
     background-image: url("../images/tree-with-roots.jpg");
     background-size: cover;
     background-position: center;
-    aspect-ratio: 16/8;
-    position: relative;
-}
+    aspect-ratio: 16/8;}
 
 .banner-w-content {
-
+    position: relative;
 }
 
 .banner__content {
@@ -22,7 +20,7 @@
 }
 
 /* Intro */
-.intro {
-    padding: 40px;
+.home-section {
+    padding: 0 40px;
+    margin: 40px 0;
 }
-
