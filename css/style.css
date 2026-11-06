@@ -1,0 +1,23 @@
+
+.banner {
+    background-image: url("../images/tree-with-roots.jpg");
+    background-size: cover;
+    background-position: center;
+    aspect-ratio: 16/8;
+    position: relative;
+}
+
+.banner-w-content {
+
+}
+
+.banner__content {
+    background-color: rgba(0,0,0,0.5);
+    color: white;
+    padding: 20px;
+    position: absolute;
+    bottom: 40px;
+    left: 40px;
+    max-width: 450px;
+}
+
